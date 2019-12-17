@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Yoda",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png"
+
+  },
+  {
+    "id": 2,
+    "name": "Han Solo",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "C-3PO",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/C-3PO_droid.png"
+  },
+  {
+    "id": 4,
+    "name": "Obi-Wan Kenobi",
+    "image": "https://www.esquireme.com/sites/default/files/styles/full_img/public/images/2019/09/02/obi-wan-show-1567178968.jpg?itok=wsXM9Wmp"
+  },
+  {
+    "id": 5,
+    "name": "Princess Leia",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Luke Skywalker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Luke_Skywalker.png"
+  },
+  {
+    "id": 7,
+    "name": "Darth Vader",
+    "image": "http://images.buystarwarscostumes.com/products/10008/2-1-99300/authentic-darth-vader-costume.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rey",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Rey_Star_Wars.png"
+  },
+  {
+    "id": 9,
+    "name": "Chewbacca",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Chewbacca-2-.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Qui-Gon Jinn",
+    "image": "https://i.pinimg.com/originals/5f/86/a1/5f86a13e7b338f4931e0bcaa5f785c40.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Count Dooku",
+    "image": "https://i.pinimg.com/564x/45/34/5e/45345e9b1b5fc0ad92caf81c2a183863.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Finn",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Finn-Force_Awakens_%282015%29.png"
+  }
+]
