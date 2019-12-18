@@ -1,13 +1,14 @@
 import React from "react";
 import "./style.css";
 
-function FriendCard(props) {
+function CharacterCard(props) {
   return (
     <div className="card">
       <div className="img-container">
         <img 
           alt={props.name} 
-          src={props.image} />
+          src={props.image}
+          onClick={props.randomizeImages} />
       </div>
       <div className="content">
         <strong>
@@ -18,4 +19,4 @@ function FriendCard(props) {
   );
 }
 
-export default FriendCard;
+export default CharacterCard;

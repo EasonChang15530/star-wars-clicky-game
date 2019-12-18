@@ -1,29 +1,34 @@
 import React, { Component } from "react";
-import FriendCard from "./components/FriendCard";
+import CharacterCard from "./components/CharacterCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "./friends.json";
+import Counter from "./components/Counter";
+import characters from "./characters.json";
+
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
+  // Setting this.state.characters to the characters json array
   state = {
-    friends
+    characters
   };
 
-  // Map over this.state.friends and render a FriendCard component for each friend object
+  randomizeImages = (id) => {
+    console.log("This has been clicked!")
+    console.log(id)
+  }
+
+  // Map over this.state.characters and render a CharacterCard component for each character object
   render() {
     return (
       <Wrapper>
         <Title>Star Wars Clicky Game</Title>
-        {this.state.friends.map(friend => (
-          <FriendCard
-            removeFriend={this.removeFriend}
-            id={friend.id}
-            key={friend.id}
-            name={friend.name}
-            image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
+        <Counter />
+        {this.state.characters.map(character => (
+          <CharacterCard
+            id={character.id}
+            name={character.name}
+            image={character.image}
+            randomizeImages={() => this.randomizeImages(character.id)}
           />
         ))}
       </Wrapper>
