@@ -6,10 +6,10 @@ function Counter(props) {
   return (
     <div>
       <div className="counter-body">
-        <p className="counter-text">Click Count: {props.count}
+        <p className="counter-text">Click Count: {props.count} /
           <span>
             Top Score: {props.topScore}
-            </span>
+          </span>
         </p>
       </div>
     </div>
