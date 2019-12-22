@@ -1,4 +1,4 @@
-.card {
+.col-lg-3 .card {
   background: white;
   border-radius: 2px;
   height: 200px;
@@ -9,18 +9,20 @@
   text-align: center;
 }
 
-.card :hover {
+/* No space can be added here, for example .card :hover */
+.card:hover {
   transition: 0.5s;
   box-shadow: 10px 10px 10px 10px #888888;
-
 }
 
+/* The greater than sign (>) means .img-container is .card's first children rather than all of children */
 .card > .img-container {
   height: 90%;
   overflow: hidden;
   text-align: center;
   background:#6CADDC;
 }
+
 .card > .img-container > img {
   width: 100%
 }
