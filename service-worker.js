@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/star-wars-clicky-game/precache-manifest.44c07046eea01b856f89c34d5e7d65b3.js"
+  "/star-wars-clicky-game/precache-manifest.1e62916f870821bed26d7183e60706a5.js"
 );
 
 self.addEventListener('message', (event) => {
