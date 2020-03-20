@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/star-wars-clicky-game/static/css/main.53fac7d4.chunk.css",
-    "main.js": "/star-wars-clicky-game/static/js/main.be1f5b64.chunk.js",
-    "main.js.map": "/star-wars-clicky-game/static/js/main.be1f5b64.chunk.js.map",
+    "main.js": "/star-wars-clicky-game/static/js/main.9de316b9.chunk.js",
+    "main.js.map": "/star-wars-clicky-game/static/js/main.9de316b9.chunk.js.map",
     "runtime-main.js": "/star-wars-clicky-game/static/js/runtime-main.aecaaa60.js",
     "runtime-main.js.map": "/star-wars-clicky-game/static/js/runtime-main.aecaaa60.js.map",
     "static/js/2.bdffb9dd.chunk.js": "/star-wars-clicky-game/static/js/2.bdffb9dd.chunk.js",
     "static/js/2.bdffb9dd.chunk.js.map": "/star-wars-clicky-game/static/js/2.bdffb9dd.chunk.js.map",
     "index.html": "/star-wars-clicky-game/index.html",
-    "precache-manifest.bd3d42458af757588b5b70a672a8bb67.js": "/star-wars-clicky-game/precache-manifest.bd3d42458af757588b5b70a672a8bb67.js",
+    "precache-manifest.1e62916f870821bed26d7183e60706a5.js": "/star-wars-clicky-game/precache-manifest.1e62916f870821bed26d7183e60706a5.js",
     "service-worker.js": "/star-wars-clicky-game/service-worker.js",
     "static/css/main.53fac7d4.chunk.css.map": "/star-wars-clicky-game/static/css/main.53fac7d4.chunk.css.map",
     "static/js/2.bdffb9dd.chunk.js.LICENSE": "/star-wars-clicky-game/static/js/2.bdffb9dd.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aecaaa60.js",
     "static/js/2.bdffb9dd.chunk.js",
     "static/css/main.53fac7d4.chunk.css",
-    "static/js/main.be1f5b64.chunk.js"
+    "static/js/main.9de316b9.chunk.js"
   ]
 }
